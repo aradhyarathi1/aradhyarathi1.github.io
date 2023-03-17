@@ -1,0 +1,14 @@
+---
+title: "About"
+about: 
+  template: jolla
+  image: suit image copy.JPG
+  image-shape: round
+  image-width: 10cm
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aradhyarathi/
+---
+
+UCL Management Science student

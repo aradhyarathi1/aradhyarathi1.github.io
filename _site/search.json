@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Aradhya’s Personal Website",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "UCL Management Science student"
+  },
+  {
+    "objectID": "Portfolio.html#volunteership",
+    "href": "Portfolio.html#volunteership",
+    "title": "Personal Portfolio",
+    "section": "Volunteership:",
+    "text": "Volunteership:"
+  },
+  {
+    "objectID": "Portfolio.html#leadership",
+    "href": "Portfolio.html#leadership",
+    "title": "Personal Portfolio",
+    "section": "Leadership:",
+    "text": "Leadership:"
+  }
+]
